@@ -1,0 +1,17 @@
+{
+    "name": "jmaat\/phpunit-laravel",
+    "description": "phpunit-laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jmaat",
+            "email": "it_hjm@sina.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Jmaat\\PhpunitLaravel\\": "src"
+        }
+    }
+}
